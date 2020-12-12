@@ -1,4 +1,5 @@
 # RxJavaSample
+[![CircleCI](https://circleci.com/gh/Jintin/RxJavaSample.svg?style=shield)](https://circleci.com/gh/Jintin/RxJavaSample)
 
 Series of different feature sample in RxJava
 
